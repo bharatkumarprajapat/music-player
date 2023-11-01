@@ -1,1 +1,3 @@
-# music-player
+# CodeClauseIntership_Music_Player_In_Python
+This is the Intership based project. Need to build a Basic music player using python. And this is it. And this has some intersting features. Go and check it Out. You will enjoy it...
+and comment down if their is a bug or not responding pages/server. let me know.
